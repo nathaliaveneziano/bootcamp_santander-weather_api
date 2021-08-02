@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bootcamp_santander-weather_api/static/css/main.e5f37cb8.chunk.css",
+    "main.js": "/bootcamp_santander-weather_api/static/js/main.0479a7e8.chunk.js",
+    "main.js.map": "/bootcamp_santander-weather_api/static/js/main.0479a7e8.chunk.js.map",
+    "runtime-main.js": "/bootcamp_santander-weather_api/static/js/runtime-main.15283bf2.js",
+    "runtime-main.js.map": "/bootcamp_santander-weather_api/static/js/runtime-main.15283bf2.js.map",
+    "static/js/2.fcf5f55f.chunk.js": "/bootcamp_santander-weather_api/static/js/2.fcf5f55f.chunk.js",
+    "static/js/2.fcf5f55f.chunk.js.map": "/bootcamp_santander-weather_api/static/js/2.fcf5f55f.chunk.js.map",
+    "static/js/3.f9a656c5.chunk.js": "/bootcamp_santander-weather_api/static/js/3.f9a656c5.chunk.js",
+    "static/js/3.f9a656c5.chunk.js.map": "/bootcamp_santander-weather_api/static/js/3.f9a656c5.chunk.js.map",
+    "index.html": "/bootcamp_santander-weather_api/index.html",
+    "static/css/main.e5f37cb8.chunk.css.map": "/bootcamp_santander-weather_api/static/css/main.e5f37cb8.chunk.css.map",
+    "static/js/2.fcf5f55f.chunk.js.LICENSE.txt": "/bootcamp_santander-weather_api/static/js/2.fcf5f55f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15283bf2.js",
+    "static/js/2.fcf5f55f.chunk.js",
+    "static/css/main.e5f37cb8.chunk.css",
+    "static/js/main.0479a7e8.chunk.js"
+  ]
+}
